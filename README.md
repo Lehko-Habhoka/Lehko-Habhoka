@@ -25,7 +25,7 @@ with a strategic approach to both incident prevention and resolution.
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -35,7 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
