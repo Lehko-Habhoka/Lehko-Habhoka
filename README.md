@@ -41,31 +41,39 @@ I'm actively growing into IAM / Cloud Systems Administration and Automation Engi
 
 ## Tools
 
-
-### Network
+### Identity & Access Management
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
- 
+    <img src="https://img.shields.io/badge/-Microsoft_Entra_ID-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Duo_MFA-6F2DBD?&style=for-the-badge" />
 </div>
 
-### Endpoint
+### Endpoint & Automation
 <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Intune-0078D4?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Tanium-000000?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  
+    <img src="https://img.shields.io/badge/-Power_Automate-0066FF?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
-
 </div>
 
-### SIEM
+### SIEM & Security Monitoring <sub><i>(hands-on lab exposure)</i></sub>
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+### Network <sub><i>(hands-on lab exposure)</i></sub>
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
 
 ## Certifications
 
