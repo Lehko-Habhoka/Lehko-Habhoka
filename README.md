@@ -1,28 +1,33 @@
-# Hello, I'm Yutaka Toguchi
-<a href="https://linkedin.com/in/yutaka-toguchi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h1 align="center">Hello, I'm Yutaka Toguchi 👋</h1> <h3 align="center">Enterprise Systems Administrator — Identity, Endpoint & Automation Engineering</h3> <p align="center"> <a href="https://www.linkedin.com/in/yutaka-toguchi/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:yutaka8toguchi@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
-Dedicated IT and cybersecurity professional with a solid foundation in technical support, IT
-infrastructure maintenance, and data security. With a background in both automated systems
-and technical requirement management, I bring a strong attention to detail and a proactive
-approach to identifying and resolving potential vulnerabilities. My experience spans the
-deployment of IT solutions, including Power Automate and Microsoft Sentinel, and delivering
-effective technical support. Fluent in both Japanese and English, I have a proven ability to
-bridge communication gaps and provide clear, actionable insights. My goal is to leverage my
-skills in cybersecurity, data protection, and IT integration to contribute to the security and
-efficiency of complex technological environments.
-Certificate: COMPTIA Security+, Google Cybersecurity (WIP)
+🧭 About Me
+
+I'm an Enterprise Systems Administrator managing Microsoft 365, Active Directory, and Azure AD (Entra ID) identity infrastructure for 1,800+ users across highly regulated healthcare, law enforcement, and government environments. My day-to-day blends identity & directory services, endpoint engineering, and workflow automation — all under strict HIPAA compliance requirements.
+
+I'm bilingual (Japanese / English) and bring a detail-oriented, security-first mindset to everything from access provisioning to large-scale endpoint deployments.
+
+Certifications: CompTIA Security+ (Active) · Google Cybersecurity Professional Certificate (In Progress)
 
 
+🛠️ What I Work With
 
-## Objective
-My career goal is to become a highly skilled cybersecurity analyst specializing in incident response and digital 
-forensics. While I may be at the early stages of my journey, I am eager to develop deep expertise in these areas. 
-I am committed to continuous learning and growth, with a proven ability to quickly grasp new concepts and technologies. 
-As a fast learner, I am prepared to adapt to the dynamic cybersecurity landscape and contribute to safeguarding organizations by 
-detecting, responding to, and investigating security incidents. My aim is to make a meaningful impact by combining technical proficiency
-with a strategic approach to both incident prevention and resolution.
+Identity & Access Management / Directory Services Active Directory · Azure AD (Entra ID) · SSO / SAML Federation · Active Roles · RBAC · Duo MFA
+
+Endpoint, Modern Workplace & Automation Microsoft Intune · Tanium · Power Automate · PowerShell · CMD Scripting
+
+Enterprise Infrastructure & Security Windows Enterprise Environments · HIPAA Compliance · Enterprise Encryption · Cisco VPN
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+
+
+📈 Where I'm Headed
+
+I'm actively growing into IAM / Cloud Systems Administration and Automation Engineering roles, with a longer-term interest in bridging into security operations — currently building hands-on lab experience with Microsoft Sentinel and deepening my scripting toward Microsoft Graph API as a natural next step beyond PowerShell.
+
+🔐 Currently studying: Google Cybersecurity Professional Certificate
+🧪 Lab exposure: Microsoft Sentinel (SIEM fundamentals, log analysis)
+⚙️ Leveling up: PowerShell → Microsoft Graph API
+🎯 Goal: Identity/Automation engineering roles now, with a security-operations pivot on the horizon
 
 ## Skills
 
